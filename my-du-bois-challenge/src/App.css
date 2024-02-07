@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+.App {
+  text-align: center;
+  background-color: #fff4e4;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+#overview-chart {
+  margin-left: -300px;
+}
